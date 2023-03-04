@@ -1,0 +1,6 @@
+com\mycompany\soap\cilent\ObjectFactory.class
+com\mycompany\soap\cilent\StudentService_Service.class
+com\mycompany\soap\cilent\StudentService.class
+com\mycompany\soap\cilent\Hello.class
+com\mycompany\soap\cilent\HelloResponse.class
+com\mycompany\soap\cilent\package-info.class
