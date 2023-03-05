@@ -60,7 +60,7 @@
 </div>
  
 <!--------------------Special Offers------------------------->
-<div class="offer">
+<!--<div class="offer">
     <div class="small-container">
         <div class="row">
             <div class="col-2">
@@ -74,9 +74,13 @@
             </div>
         </div>
     </div>
+</div>-->
+<!-----------------Footer------------------>
+<div class="footer">
+    <div class="footer-container">
+        <p>2023 All Rights Reserved By Bumble Bee Sri Lanka</p>
+    </div>
 </div>
-<!-----------------Testimonial------------------>
-
     </body>
 </html>
 

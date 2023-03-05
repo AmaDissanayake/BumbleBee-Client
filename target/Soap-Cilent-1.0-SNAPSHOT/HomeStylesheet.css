@@ -96,7 +96,7 @@ p{
     padding-right: 25px;
 }
 .offer{
-    background: radial-gradient(#fff,#ffd6d6);
+    background: radial-gradient(#fff,#a5ff8f);
     margin-top: 5px;
     padding: 0px 0;
 }
@@ -106,6 +106,25 @@ p{
 small{
     color: #555;
 }
+.footer{
+    background: #000;
+    color: #FFFFFF;
+    font-size: 14px;
+    padding: 20px 0 20px;
+}
+.footer p{
+    color: #8a8a8a;
+}
+.footer-container{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+
 
 
 
