@@ -36,11 +36,65 @@
                     <a href="" class="btn">Explore Now</a>
                 </div>
                 <div class="col-2">
-                    <img src="Images/HomeImage2.jpg">                    
+                    <img src="Images/HomeImg.jpg">                    
                 </div>
             </div>
         </div>
         </div>
         
+<!-----------------Featured Categories----------------------->
+<div class="categories">
+    <div class="small-container">
+        <div class="row">
+        <div class="col-3">
+            <img src="Images/BestSellers.png">
+        </div>
+        <div class="col-3">
+            <img src="Images/DiscountedBooks.png">
+        </div>
+        <div class="col-3">
+            <img src="Images/SecondHandBooks.jpg">
+        </div>
+        </div>
+    </div>    
+</div>
+ 
+<!--------------------Special Offers------------------------->
+<div class="offer">
+    <div class="small-container">
+        <div class="row">
+            <div class="col-2">
+                <img src="Images/offers.jpg" class="offer-img">
+            </div>
+            <div class="col-2">
+                <p>Exclusively available</p>
+                <h1>Buy 3 Get 1 Free</h1>
+                <small>Hurry Up Before You Miss This Golden Opportunity.Buy 3 Books & Get Any Book Of Your Choice Completely Free.</small>
+                <br><a href="" class="btn">Buy Now</a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-----------------Testimonial------------------>
+
     </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
