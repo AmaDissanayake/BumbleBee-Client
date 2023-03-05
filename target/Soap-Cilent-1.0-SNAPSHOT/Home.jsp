@@ -16,18 +16,29 @@
         <div class="header">
         <div class="container">
             <div class="navbar">
-            <div class="logo">
-                <img src="Images/Logo.jpg" width="140px">
-            </div>
-            <nav>
-                <ul>
-                    <li><a href="">Home</a></li>
-                    <li><a href="">Categories</a></li>
-                    <li><a href="">About Us</a></li>
-                    <li><a href="">Contact Us</a></li>
-                </ul>
-            </nav>
-                <img src="Images/cart.png" width="30px" height="30px">    
+                
+                <div class="menu-bar">
+                    <img src="Images/Logo.jpg" width=""140px alt="logo">
+
+                        <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">Categories</a>
+                            <div class="dropdown-menu">
+                                <ul>
+                                    <a href="#">All Books</a>
+                                    <a href="#">Bestsellers</a>
+                                    <a href="#">Discounted Books</a>
+                                    <a href="#">Second Hand Books</a>
+
+                                </ul>
+                            </div>
+                        </li>    
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Contact</a></li>
+                         <img src="Images/cart.png" width="30px" height="30px">
+                    </ul>
+                    
+                </div> 
             </div>
             <div class="row">
                 <div class="col-2">
@@ -40,8 +51,8 @@
                 </div>
             </div>
         </div>
-        </div>
         
+      </div>  
 <!-----------------Featured Categories----------------------->
 <div class="categories">
     <div class="small-container">
