@@ -9,9 +9,27 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Bumble Bee Online Bookstore</title>
+        <link rel="stylesheet" href="HomeStylesheet.css"/>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        
+        <div class="container">
+            <div class="navbar">
+            <div class="logo">
+                <img src="Images/Logo.jpg" width="140px">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">Categories</a></li>
+                    <li><a href="">About Us</a></li>
+                    <li><a href="">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+        </div>
+        
+        
     </body>
 </html>
