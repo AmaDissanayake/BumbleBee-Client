@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Bumble Bee Online Bookstore</title>
-        <link rel="stylesheet" href="Home.css"/>
+        <link rel="stylesheet" href="Home1.css"/>
     </head>
     <body>       
         <div class="header">

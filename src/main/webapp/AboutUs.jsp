@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>About Us Page</title>
-        <link rel="stylesheet" href="AboutUs.css"/>
+        <link rel="stylesheet" href="AboutUs1.css"/>
     </head>
     <body>
         <div class="header">
