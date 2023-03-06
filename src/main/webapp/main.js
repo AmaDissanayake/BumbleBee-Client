@@ -7,74 +7,182 @@ let carts = document.querySelectorAll('.add-cart');
 let products = [
     {
       name: 'Things we never got over',
-      tag: 'thingswenevergotover',
-      price: 14.79,
+      tag: 'ThingsWeNeverGotOver',
+      price: 14,
       inCart: 0
     },
     {
-      name: 'Neklesh',
-      tag: 'neklesh',
+      name: 'It Ends With Us',
+      tag: 'ItEndsWithUs',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'Icebreaker',
+      tag: 'Icebreaker',
+      price: 15,
+      inCart: 0
+    },
+    {
+      name: 'I Dont Need Therapy',
+      tag: 'IDontNeedTherapy',
+      price: 37,
+      inCart: 0
+    },
+    {
+      name: 'Daisy Jones and The Six',
+      tag: 'DaisyJonesandTheSix',
+      price: 16,
+      inCart: 0
+    },
+    {
+      name: 'Me vs Brain',
+      tag: 'MevsBrain',
+      price: 22,
+      inCart: 0
+    },
+    {
+      name: 'It Starts with Us',
+      tag: 'ItStartswithUs',
+      price: 27,
+      inCart: 0
+    },
+    {
+      name: 'Seven Husbands of Evelyn Hugo',
+      tag: 'SevenHusbandsofEvelynHugo',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'Bored of Lunch',
+      tag: 'BoredofLunch',
+      price: 32,
+      inCart: 0
+    },
+    {
+      name: 'Cleopatra and Frankenstein',
+      tag: 'CleopatraandFrankenstein',
+      price: 17,
+      inCart: 0
+    },
+    {
+      name: 'The One Thing',
+      tag: 'TheOneThing',
+      price: 18,
+      inCart: 0
+    },
+    {
+      name: 'Spare',
+      tag: 'Spare',
+      price: 37,
+      inCart: 0
+    },
+    {
+      name: 'The Secret History',
+      tag: 'TheSecretHistory',
+      price: 19,
+      inCart: 0
+    },
+    {
+      name: 'The Letters I Will Never Send',
+      tag: 'TheLettersIWillNeverSend',
+      price: 19,
+      inCart: 0
+    },
+    {
+      name: 'Ugly Love',
+      tag: 'UglyLove',
+      price: 19,
+      inCart: 0
+    },
+    {
+      name: 'Three Widow',
+      tag: 'ThreeWidow',
       price: 25,
       inCart: 0
     },
     {
-      name: 'Kangan',
-      tag: 'kangan',
+      name: 'Better Than the Movies',
+      tag: 'BetterThantheMovies',
+      price: 16,
+      inCart: 0
+    },
+    {
+      name: 'A Good Girls Guide to Murder',
+      tag: 'AGoodGirlsGuidetoMurder',
+      price: 16,
+      inCart: 0
+    },
+    {
+      name: 'Of Cabbages and Kimchi',
+      tag: 'OfCabbagesandKimchi',
+      price: 32,
+      inCart: 0
+    },
+    {
+      name: 'Once Upon A Broken Heart',
+      tag: 'OnceUponABrokenHeart',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'Drama Free',
+      tag: 'DramaFree',
+      price: 18,
+      inCart: 0
+    },
+    {
+      name: 'Freedom From Anxiety',
+      tag: 'FreedomFromAnxiety',
+      price: 26,
+      inCart: 0
+    },
+    {
+      name: 'Rich Dad Poor Dad',
+      tag: 'RichDadPoorDad',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'Where the Crawdads Sing',
+      tag: 'WheretheCrawdadsSing',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'Hagitude',
+      tag: 'Hagitude',
+      price: 26,
+      inCart: 0
+    },
+    {
+      name: 'One True Loves',
+      tag: 'OneTrueLoves',
       price: 20,
       inCart: 0
     },
     {
-      name: 'Jhumka',
-      tag: 'jhumka',
-      price: 10,
+      name: 'A Man Called Ove',
+      tag: 'AManCalledOve',
+      price: 13,
       inCart: 0
     },
     {
-      name: 'Black',
-      tag: 'black',
-      price: 8,
+      name: 'My What If Year',
+      tag: 'MyWhatIfYear',
+      price: 21,
       inCart: 0
     },
     {
-      name: 'Cream',
-      tag: 'cream',
-      price: 6,
+      name: 'Heartstopper Volume Four',
+      tag: 'HeartstopperVolumeFour',
+      price: 18,
       inCart: 0
     },
     {
-      name: 'Gray',
-      tag: 'gray',
-      price: 4,
-      inCart: 0
-    },
-    {
-      name: 'White',
-      tag: 'white',
-      price: 2,
-      inCart: 0
-    },
-    {
-      name: 'Battery',
-      tag: 'battery',
-      price: 50,
-      inCart: 0
-    },
-    {
-      name: 'CCTV',
-      tag: 'cctv',
-      price: 80,
-      inCart: 0
-    },
-    {
-      name: 'Clock',
-      tag: 'clock',
-      price: 20,
-      inCart: 0
-    },
-    {
-      name: 'Headset',
-      tag: 'headset',
-      price: 100,
+      name: 'The Dress Diary of Mrs Anne Sykes',
+      tag: 'TheDressDiaryofMrsAnneSykes',
+      price: 31,
       inCart: 0
     }
 ];

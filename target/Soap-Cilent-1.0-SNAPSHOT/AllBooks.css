@@ -142,10 +142,37 @@ p{
 .col-4:hover .cart1,
 .col-4:hover .cart2,
 .col-4:hover .cart3,
-.col-4:hover .cart4 {
+.col-4:hover .cart4,
+.col-4:hover .cart5,
+.col-4:hover .cart6,
+.col-4:hover .cart7,
+.col-4:hover .cart8,
+.col-4:hover .cart9,
+.col-4:hover .cart10,
+.col-4:hover .cart11,
+.col-4:hover .cart12,
+.col-4:hover .cart13,
+.col-4:hover .cart14,
+.col-4:hover .cart15,
+.col-4:hover .cart16,
+.col-4:hover .cart17,
+.col-4:hover .cart18,
+.col-4:hover .cart19,
+.col-4:hover .cart20,
+.col-4:hover .cart21,
+.col-4:hover .cart22,
+.col-4:hover .cart23,
+.col-4:hover .cart24,
+.col-4:hover .cart25,
+.col-4:hover .cart26,
+.col-4:hover .cart27,
+.col-4:hover .cart28,
+.col-4:hover .cart29,
+.col-4:hover .cart30 {
     bottom: 50px;
     opacity: 1;
     padding: 10px;
+    font-size: 15px;
     text-decoration: none;
 }
 
