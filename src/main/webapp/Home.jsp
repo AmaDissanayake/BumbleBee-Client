@@ -23,7 +23,7 @@
                         <li><a href="#">Categories</a>
                             <div class="dropdown-menu">
                                 <ul>
-                                    <a href="#">All Books</a>
+                                    <a href="AllBooks.jsp">All Books</a>
                                     <a href="#">Bestsellers</a>
                                     <a href="#">Discounted Books</a>
                                     <a href="#">Second Hand Books</a>
