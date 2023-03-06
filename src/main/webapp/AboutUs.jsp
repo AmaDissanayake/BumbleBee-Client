@@ -30,11 +30,22 @@
                                 </ul>
                             </div>
                         </li>    
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="AboutUs.jsp">About Us</a></li>
+                        <li><a href="ContactUs.jsp">Contact Us</a></li>
                         <img src="Images/cart.png" width="30px" height="30px">
                         </ul>
                 </div> 
+            </div>
+            <div class="row">
+                <div class="col-2">
+                    <img src="Images/AboutUs.png">                    
+                </div>
+                <div class="col-2">
+                    <h1>Bumble Bee Is Where Reading Gets Better!</h1>
+                    <p>Our aim is to connect readers with independent booksellers all over the world. We believe local bookstores are essential community hubs that foster culture, curiosity, and a love of reading, and we're committed to helping them thrive.Every purchase on the site financially supports independent bookstores. Our platform gives independent bookstores tools to compete online and financial support to help them maintain their presence in local communities.</p>
+                    <br>
+                    <p>Here's to an impressive collection of books you’ll love under one roof. It's not just a book store, but an experience.</p>
+                </div>
             </div>
         </div>
         </div>

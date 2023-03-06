@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>About Us Page</title>
+        <title>Contact Us Page</title>
         <link rel="stylesheet" href="ContactUs.css"/>
     </head>
     <body>
@@ -30,14 +30,31 @@
                                 </ul>
                             </div>
                         </li>    
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="AboutUs.jsp">About Us</a></li>
+                        <li><a href="ContactUs.jsp">Contact Us</a></li>
                         <img src="Images/cart.png" width="30px" height="30px">
                         </ul>
                 </div> 
             </div>
+<!---------------Contact Us--------------------->
+        <div class="contact-us">
+            <div class="container">
+                <div class="row">                   
+                    <div class="col-2">
+                     <h1>Contact Us</h1>
+                     
+                    </div>
+                    <div class="col-2">
+                     <div class="follow"><b>Address:</b> 48/5A, Baseline Rd, Colombo</div>
+	             <div class="follow"><b>Phone:</b> 011456789</div>
+	             <div class="follow"><b>Email:</b> bumbleebee_srilanka@gmail.com</div>                   
+                    </div>
+                </div>
+            </div>
+        </div>	
         </div>
         </div>
+               
 <!-----------------Footer------------------>
 <div class="footer">
     <div class="footer-container">

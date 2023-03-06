@@ -93,3 +93,45 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
     justify-content: center;
     text-align: center;
 }
+
+.contact-form
+{
+	padding: 15px;
+}
+
+.form-control
+{
+	border-radius: 0 !important;
+	border: none !important;
+}
+
+::placeholder
+{
+	color: #999 !important;
+}
+
+.follow
+{
+	background: #fff;
+	padding: 10px;
+	margin: 15px;
+        font-size: 20px;
+}
+
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 35%;
+    min-width: 300px;
+    padding-top: 70px;
+    padding-bottom: 150px;
+}
+
+.col-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+}

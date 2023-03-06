@@ -62,18 +62,45 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
     padding: 10px;
 }
 
+a{
+    text-decoration: none;
+    color: #555;
+}
+p{
+    color: #000;
+    font-size: 20px;
+}
 .container{
     max-width: 1300px;
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
 }
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 40%;
+    min-width: 300px;
+    padding-bottom: 54px;
+}
+.col-2 img{
+    max-width: 80%;
+}
+.col-2 h1{
+    font-size: 45px;
+    line-height: 60px;
+    margin: 25px 0;
+}
 
 .header{
     background: radial-gradient(#fff,#ffd6d6);
 }
 .header .row{
-    margin-top: 70px;
+    margin-top: 0px;
 }
 .categories{
     margin: 70px 0;
