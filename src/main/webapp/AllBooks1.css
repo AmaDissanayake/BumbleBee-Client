@@ -76,6 +76,13 @@ p{
     padding-right: 25px;
 }
 
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
 .header{
     background: radial-gradient(#fff,#ffd6d6);
 }
@@ -168,7 +175,17 @@ p{
 .col-4:hover .cart27,
 .col-4:hover .cart28,
 .col-4:hover .cart29,
-.col-4:hover .cart30 {
+.col-4:hover .cart30,
+.col-4:hover .cart31,
+.col-4:hover .cart32,
+.col-4:hover .cart33,
+.col-4:hover .cart34,
+.col-4:hover .cart35,
+.col-4:hover .cart36,
+.col-4:hover .cart37,
+.col-4:hover .cart38,
+.col-4:hover .cart39,
+.col-4:hover .cart40 {
     bottom: 50px;
     opacity: 1;
     padding: 10px;

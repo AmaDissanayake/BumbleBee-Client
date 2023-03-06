@@ -184,6 +184,66 @@ let products = [
       tag: 'TheDressDiaryofMrsAnneSykes',
       price: 31,
       inCart: 0
+    },
+    {
+      name: 'The Power of Now',
+      tag: 'ThePowerofNow',
+      price: 17,
+      inCart: 0
+    },
+    {
+      name: 'Start With Why',
+      tag: 'StartWithWhy',
+      price: 19,
+      inCart: 0
+    },
+    {
+      name: 'The Green Gardening Handbook',
+      tag: 'TheGreenGardeningHandbook',
+      price: 23,
+      inCart: 0
+    },
+    {
+      name: 'Echo of the Dead',
+      tag: 'EchooftheDead',
+      price: 11,
+      inCart: 0
+    },
+    {
+      name: 'Into the War',
+      tag: 'IntotheWar',
+      price: 13,
+      inCart: 0
+    },
+    {
+      name: 'A Valley Secret',
+      tag: 'AValleySecret',
+      price: 11,
+      inCart: 0
+    },
+    {
+      name: 'Harry Potter',
+      tag: 'HarryPotter',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'The Alloy of Law',
+      tag: 'TheAlloyofLaw',
+      price: 19,
+      inCart: 0
+    },
+    {
+      name: 'Misery',
+      tag: 'Misery',
+      price: 14,
+      inCart: 0
+    },
+    {
+      name: 'Clean & Green',
+      tag: 'Clean&Green',
+      price: 22,
+      inCart: 0
     }
 ];
 

@@ -24,8 +24,8 @@
                             <div class="dropdown-menu">
                                 <ul>
                                     <a href="AllBooks.jsp">All Books</a>
-                                    <a href="#">Bestsellers</a>
-                                    <a href="#">Discounted Books</a>
+                                    <a href="BestSellers.jsp">Bestsellers</a>
+                                    <a href="DiscountedBooks.jsp">Discounted Books</a>
                                     <a href="#">Second Hand Books</a>
                                 </ul>
                             </div>
