@@ -10,18 +10,16 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Bumble Bee Online Bookstore</title>
-        <link rel="stylesheet" href="HomeStylesheet.css"/>
+        <link rel="stylesheet" href="Home.css"/>
     </head>
     <body>       
         <div class="header">
         <div class="container">
             <div class="navbar">
-                
                 <div class="menu-bar">
                     <img src="Images/Logo.jpg" width=""140px alt="logo">
-
                         <ul>
-                        <li><a href="#">Home</a></li>
+                        <li><a href="Home.jsp">Home</a></li>
                         <li><a href="#">Categories</a>
                             <div class="dropdown-menu">
                                 <ul>
@@ -29,15 +27,13 @@
                                     <a href="#">Bestsellers</a>
                                     <a href="#">Discounted Books</a>
                                     <a href="#">Second Hand Books</a>
-
                                 </ul>
                             </div>
                         </li>    
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Contact</a></li>
-                         <img src="Images/cart.png" width="30px" height="30px">
-                    </ul>
-                    
+                        <li><a href="AboutUs.jsp">About Us</a></li>
+                        <li><a href="ContactUs.jsp">Contact Us</a></li>
+                        <img src="Images/cart.png" width="30px" height="30px">
+                        </ul>
                 </div> 
             </div>
             <div class="row">

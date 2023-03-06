@@ -10,7 +10,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Log In Page</title>
-        <link rel="stylesheet" href="LogInRegister.css"/>
+        <link rel="stylesheet" href="LoginRegister.css"/>
     </head>
     <body>
         <div class="hero">
