@@ -11,7 +11,7 @@
         <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>All Books Page</title>
-        <link rel="stylesheet" href="AllBooks.css"/>
+        <link rel="stylesheet" href="AllBooks1.css"/>
     </head>
     <body>
         <div class="header">
